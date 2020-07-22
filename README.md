@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack developer in JavaScript from Brazil.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreluiz-js" alt="andreluiz-js" /> </p>
 
-- 👨‍💻 All of my projects are available at [just here, on GitHub](just here, on GitHub)
+- 👨‍💻 All of my projects are available just here, on GitHub.
 
 - 💬 Ask me about **React, NodeJs, React Native**
 
