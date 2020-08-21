@@ -1,9 +1,6 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />
 <h1 align="center">Hi 👋, I'm André Souza</h1>
 <h3 align="center">A developer in JavaScript/TypeScript from Brazil.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreluiz-js" alt="andreluiz-js" /> </p>
-
-- 👨‍💻 All of my projects are available just here, on GitHub.
 
 - 💬 Ask me about **HTML, CSS3, JavaScript, TypeScript, ReactJS, React Native, NodeJS**
 
