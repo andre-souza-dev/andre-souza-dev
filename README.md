@@ -8,12 +8,12 @@
 <p></p>
 <p align="center">
   <a href="https://twitter.com/andresouzadev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andresouza.dev" height="20" width="20" />
-  </a>
+    <img align="center" src="https://simpleicons.vercel.app/twitter/1D9BF0" alt="andresouza.dev" height="20" width="20" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/andresouzadev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andresouzadev" height="20" width="20" />
-  </a>
-  <a href="https://fb.com/andreluiz1985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andreluiz_1985" height="20" width="20" /></a>
-  <a href="https://instagram.com/andresouza.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andreluiz_1985" height="20" width="20" /></a>
+    <img align="center" src="https://simpleicons.vercel.app/linkedin/0A66C2" alt="andresouzadev" height="20" width="20" />
+  </a>&nbsp;
+  <a href="https://fb.com/andreluiz1985" target="blank" ><img align="center" src="https://simpleicons.vercel.app/facebook/0866FF" alt="andreluiz_1985" height="20" width="20" /></a>&nbsp;
+  <a href="https://instagram.com/andresouza.dev" target="blank"><img align="center" src="https://simpleicons.vercel.app/instagram/E4405F" alt="andreluiz_1985" height="20" width="20" /></a>
 </p>
 
