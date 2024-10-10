@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andre-souza-dev" alt="andre-souza-dev" /> </p>
 <p align="center">
   <a href="https://twitter.com/andresouzadev" target="blank">
-    <img align="center" src="https://simpleicons.vercel.app/twitter/1D9BF0" alt="andresouza.dev" height="20" width="20" />
+    <img align="center" src="https://simpleicons.vercel.app/x/fff" alt="andresouzadev" height="20" width="20" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/andresouzadev" target="blank">
     <img align="center" src="https://simpleicons.vercel.app/linkedin/0A66C2" alt="andresouzadev" height="20" width="20" />
