@@ -5,12 +5,12 @@
   💬 Ask me about <strong>HTML, SASS, Tailwind, Tachyons, TypeScript, React, Vtex, Deco and E-commerce</strong>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz-js&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-souza-dev&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreluiz-js&show_icons=true" alt="andreluiz-js" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andre-souza-dev&show_icons=true" alt="andre-souza-dev" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andreluiz-js" alt="andreluiz-js" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=andre-souza-dev" alt="andre-souza-dev" /> </p>
 <p align="center">
   <a href="https://twitter.com/andresouzadev" target="blank">
     <img align="center" src="https://simpleicons.vercel.app/twitter/1D9BF0" alt="andresouza.dev" height="20" width="20" />
